@@ -5,8 +5,8 @@ Here are some displays of the game:
 
 ![](display.png)
 
-![](display1.png)
-
 ![](display2.png)
 
 ![](display3.png)
+
+![](display1.png)
