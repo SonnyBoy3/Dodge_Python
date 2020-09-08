@@ -3,10 +3,10 @@ A simple but complex game where the player needs to stay alive as long as possib
 
 Here are some displays of the game:
 
-![](view.png)
+![](display.png)
 
-![](view1.png)
+![](display1.png)
 
-![](view2.png)
+![](display2.png)
 
-![](view3.png)
+![](display3.png)
